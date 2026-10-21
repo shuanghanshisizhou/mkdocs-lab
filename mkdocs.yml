@@ -1,0 +1,6 @@
+site_name: 我的 MkDocs 实验网站 
+site_author: shuanghanshisizhou 
+nav: 
+- 首页: index.md
+- 关于: about.md
+theme: readthedocs
